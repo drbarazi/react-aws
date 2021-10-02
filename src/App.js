@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Heri Hakim Setiawan
+          Muhammad Agessy Barazi
         </a>
       </header>
     </div>
